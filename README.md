@@ -16,7 +16,7 @@ Ao pressionar o botão "Atualizar", os valores são modificados. A cada vez que 
 
 ## Estrutura
 
-O projeto foi construído com o Android 34, utilizando o Gradle como compilador e o Java 21.
+O projeto foi construído com o Android 35, utilizando o Gradle como compilador e o Java 11.
 
 Para obter os resultados apresentados, há o consumo da API do [Mercado Bitcoin](https://www.mercadobitcoin.net/), que retorna informações da moeda escolhida (chamadas de Ticker, tais como:
 - Última cotação
