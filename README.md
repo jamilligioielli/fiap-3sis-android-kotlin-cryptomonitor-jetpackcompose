@@ -14,8 +14,6 @@ A página inicial da aplicação apresenta informaçãoes básicas sobre a quota
 
 Ao pressionar o botão "Atualizar", os valores são modificados. A cada vez que essa ação se repete, a mudança dos valores de acordo com a data/hora é percebida.
 
-![atualizado](./imgs/tela-cotacao-atualizada.png)
-
 ## Estrutura
 
 O projeto foi construído com o Android 34, utilizando o Gradle como compilador e o Java 21.
